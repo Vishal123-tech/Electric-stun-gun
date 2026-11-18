@@ -1,9 +1,35 @@
-# Enterprise Campus Network — Cisco Packet Tracer Portfolio Project
+# 🏢 Enterprise Campus Network — Cisco Packet Tracer
 
-This is my complete networking portfolio project, designed, configured, and verified from scratch in Cisco Packet Tracer as a final-year Computer Science student. The project represents a fully functional, multi-department enterprise campus network for a company called **Apex Enterprise Solutions**, connecting a Corporate Headquarters (HQ), a remote Branch Office over a serial WAN, and a simulated Internet Service Provider (ISP).
+<div align="center">
+
+<p><strong>A complete, documented enterprise-network simulation built as an E&TC networking project.</strong></p>
+
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![OSPF](https://img.shields.io/badge/OSPF-Area%200-2563eb?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network%20Security-ACL%20%7C%20NAT%20%7C%20SSH-16a34a?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete%20%26%20Verified-22c55e?style=for-the-badge)
+
+</div>
+
+This is a complete networking portfolio project designed, configured, and verified from scratch in Cisco Packet Tracer as part of my **Electronics and Telecommunication Engineering (E&TC)** coursework. It represents a multi-department enterprise campus network for **Apex Enterprise Solutions**, connecting a Corporate Headquarters, a remote Branch Office over a serial WAN, and a simulated Internet Service Provider.
 
 > **Project Status: Complete & Verified**  
 > All design goals, switching, routing, dynamic OSPF, DHCP, server services, NAT/PAT, Guest isolation ACL, switchport security, and SSH remote management have been configured and verified directly in Cisco Packet Tracer.
+
+## At a glance
+
+| Area | Implementation |
+|---|---|
+| Network design | HQ, branch office, ISP and multi-department segmentation |
+| Switching | VLANs, 802.1Q trunks, access ports and Layer-3 SVIs |
+| Routing | OSPF Area 0, static default route and Router-on-a-Stick |
+| Services | DHCP relay, branch DHCP, DNS and HTTP intranet server |
+| Security | Guest isolation ACL, NAT/PAT, port security and SSHv2 |
+| Validation | Connectivity tests, screenshots, configuration notes and troubleshooting log |
+
+## Why this project matters
+
+The project demonstrates the full network-engineering workflow: translate a business scenario into a topology, create an IP and VLAN plan, configure routing and services, apply layered access controls, then verify the design with repeatable tests. It also documents a real troubleshooting case where a missing default route prevented external connectivity.
 
 ---
 
