@@ -159,7 +159,7 @@ Possible future enhancements include:
 
 # 👩‍💻 Author
 
-**Hiba Sabir**
+**Vishal Yadav**
 
 Engineering Student in Cybersecurity & Digital Trust
 
